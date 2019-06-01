@@ -71,3 +71,4 @@ F:\HoldProject\CRMManagement\CRMManagement\bin\zh-Hans\Microsoft.Owin.Security.T
 F:\HoldProject\CRMManagement\CRMManagement\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 F:\HoldProject\CRMManagement\CRMManagement\obj\Debug\CRMManagement.dll
 F:\HoldProject\CRMManagement\CRMManagement\obj\Debug\CRMManagement.pdb
+F:\HoldProject\CRMManagement\CRMManagement\obj\Debug\CRMManagement.csprojResolveAssemblyReference.cache
